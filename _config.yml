@@ -1,7 +1,9 @@
 name: Drip
-description: My coffee blog
+description: A coffee journal
+twitter_username: msteenhagen
 
-url: http://msteenhagen.github.io/coffee
+# url: http://msteenhagen.github.io/coffee
+url: http://127.0.0.1:4000
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -10,9 +12,9 @@ pygments: true
 paginate: 5
 
 navigation:
- - title: Home
+ - title: Coffee journal
    url: /index.html
  - title: About
-   url: /about
- - title: Contact
-   url: /contact
+   url: /about.html
+ - title: Map
+   url: /map.html

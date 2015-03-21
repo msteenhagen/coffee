@@ -12,6 +12,16 @@ layout: default
 	
 	{{ content }}
 
+	{% if page.lat %} 
+	<hr>
+	</div>
+	<h4>{{ page.city }}</h4>
+		{% include map.html %}
+		
+	{% endif %}
+
+	{% include share-page.html %}
+	
 	<!-- POST NAVIGATION -->
 	<div class="postNav clearfix">
 	  {% if page.previous.url %} 
