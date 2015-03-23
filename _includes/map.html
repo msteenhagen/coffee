@@ -12,7 +12,7 @@
         var map = L.map('map').setView([{{ page.lat }}, {{ page.lng }}], 16); 
          markers = new L.featureGroup(),
             icon = L.icon({
-            iconUrl: "/assets/leaflet/img/marker-icon.png",
+            iconUrl: "{{ site.url }}/assets/leaflet/img/marker-icon.png",
             iconRetinaUrl: "/assets/leaflet/img/marker-icon-2x.png",
             iconSize:     [25, 41],
             iconAnchor:   [12.5, 41],
