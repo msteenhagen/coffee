@@ -3,15 +3,15 @@ layout: post
 title:  "Tandem" 
 city: "Toronto"
 address: "368 King St East"
-lat: 43.653878
-lng: -79.361870
+lat: "43.653878"
+lng: "-79.361870"
 website: http://www.tandemcoffee.ca
 verdict: "★★★★☆"
 date:   2015-03-22
 desc: "Small coffee paradise with sweets, savories, and vintage stoneware."
 ---
 
-There's no way I can pretend my trip to Tandem was just taking a detour. Their fabulous little café is all the way in Downtown East, and frankly I just don't have any business there. It was no surprise, then, that this was a deliberate first visit to their store. 
+There's no way I can pretend to myself my trip to Tandem was just taking a detour. Their fabulous little café is all the way in Downtown East, and frankly I just don't have any business there. It was no surprise, then, that this was a deliberate first visit to their store. 
 
 It's a well-layed out café, not too large, but with plenty of space around the counter. They have about six tables in the back, and no WiFi, as far as I could tell. Apart from beans, they sell a cute collection of vintage stoneware and appliances that's worth having a look at.  
 
