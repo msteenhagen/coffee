@@ -21,7 +21,7 @@ The single origin I ordered was a Costa Rican coffee.
 
 I just can't get used to it, but drip coffee here is brewed in advance, as so often in the Toronto coffee scene. It was pumped into my mug from a thermos-flask. I know, these plastic joepumps seem the backbone of North-American coffee culture, and their presence is widespread and accepted. But I can't help wondering why. Why risk serving coffee that's been sitting for an hour or so? (To be fair, they also offer a two-cup Chemex for those drinking together.) 
 
-<blockquote>I haste to tell you that the drip coffee was just gorgeous. It was served accompanied by a brief flavour indication: "nice and tart".</blockquote>
+<blockquote>I haste to tell you that the drip coffee was just gorgeous. It was served in the company of a brief skecth of its aroma: "nice and tart".</blockquote>
 
 I haste to tell you that the drip coffee was just gorgeous. It was served in the company of a brief skecth of its aroma: "nice and tart". I love it when baristas do that; it's brilliant and kind to draw people's attention to the notable aspects of a coffee, priming their taste. The coffee was smooth and indeed fruity and tart. It had notes of grapefruit and cranberry and made for a splendid afternoon soother.  
 
