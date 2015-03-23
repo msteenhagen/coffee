@@ -23,7 +23,7 @@
         detectRetina: true
       }).addTo(map);
         
-        var marker = L.marker([{{ page.lat }}, {{ page.lng }}]) .addTo(map).bindPopup("<b>{{ page.title }}</b><br />{{ page.address }}<br />").openPopup();
+        var marker = L.marker([{{ page.lat }}, {{ page.lng }}]) .addTo(map).bindPopup("<b>{{ site.url }}/{{ post.url }}</b><br />{{ page.address }}<br />").openPopup();
          markers.addTo(map);
 map.fitBounds(markers.getBounds());
 
