@@ -11,7 +11,7 @@ date:   2013-08-26
 desc: "The atmosphere of the place is very welcoming, and a bit steam-punk like, with lots of wood and copper. A big coffee roaster's placed in the back of the shop. It's a nice place for working as well. Without WiFi, it allows one to hide into a corner and write in the accompaniment of soothing music."
 ---
 
-After asking in vein if they serve drip coffee, the barista from Flat White recommended a place a bit further down Wardour St, TAP (Tapped and packed). This was the first time I heard of it, and went there with the kind of excitement that befits a Bank Holiday. From the outside, the style of the store struck me as familiar---it was that of a newly opened coffee shop on Tottenham Court Rd I've passed several times without going in. The bicycle mounted over the entrance gave it away, really.
+After asking in vain if they serve drip coffee, the barista from Flat White recommended a place a bit further down Wardour St, TAP (Tapped and packed). This was the first time I heard of it, and went there with the kind of excitement that befits a Bank Holiday. From the outside, the style of the store struck me as familiar---it was that of a newly opened coffee shop on Tottenham Court Rd I've passed several times without going in. The bicycle mounted over the entrance gave it away, really.
 
 As it turns out, TAP is great, and most certainly one of my new favourites. On their friendly-priced menu they describe proudly how their beans are roasted on-site. This makes me quite curious to taste their pour-over. They serve a V60, and have three different beans to choose from. I decide to have the Kenya Karutu Factory first. 
 
