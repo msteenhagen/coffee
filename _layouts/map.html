@@ -60,14 +60,14 @@
       {% for post in site.posts %}
       lat = {{ post.lat }};
       lng = {{ post.lng }};
-      content = "<a href='{{ post.url }}'><strong>{{ post.title }}</strong></a><br>{{ post.desc }}";
+      content = "<a href='{{ site.url }}/{{ post.url }}'><strong>{{ post.title }}</strong></a><br>{{ post.desc }}";
       marker = L.marker([lat, lng], {
         icon: icon
       }).bindPopup(content);
       markers.addLayer(marker);
       {% endfor %}
       // end loop through posts
-
+      
       markers.addTo(map);
       map.fitBounds(markers.getBounds());
     </script>
